@@ -1,4 +1,4 @@
-# THE INTERNET, UNSCRIPTED
+# NETWORK SYSTEMS : THE INTERNET, UNSCRIPTED
 ## Maya & Chloe’s World Tour — Interactive Computer Networking Laboratory
 
 ![Version](https://img.shields.io/badge/version-1.1.0-6366f1)
